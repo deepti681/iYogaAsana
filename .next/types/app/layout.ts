@@ -1,4 +1,4 @@
-// File: C:\Users\Rishabh\YogaFlow (1)\YogaFlow\app\layout.tsx
+// File: C:\Users\Rishabh\iYogaAsana\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
