@@ -34,6 +34,7 @@ export default function About() {
                   asChild
                   variant="outline"
                   className="border-2 border-sage text-sage hover:bg-sage hover:text-white rounded-full px-8 py-4"
+                  {...({} as any)}
                 >
                   <Link href="/schedule">View Classes</Link>
                 </Button>
@@ -169,6 +170,7 @@ export default function About() {
                 asChild
                 variant="outline"
                 className="border-2 border-sage text-sage hover:bg-sage hover:text-white rounded-full px-8 py-4 text-lg"
+                {...({} as any)}
               >
                 <Link href="/contact">Contact Us</Link>
               </Button>
